@@ -1,0 +1,2 @@
+# stat6
+statistic
